@@ -1,0 +1,27 @@
+.fandom-community-header__background.fullScreen.cover, .fandom-community-header__background.fullScreen.tileBoth, .fandom-community-header__background.fullScreen.tileHorizontally, .fandom-community-header__background.fullScreen.tileVertically {
+    height: 100%;
+}
+
+.fandom-community-header__background.fullScreen {
+    margin-bottom: auto;
+    position: fixed;
+    width: calc(100% - 66px);
+}
+
+.fandom-community-header__background.cover {
+    background-position: 50%;
+    background-size: cover;
+}
+
+.fandom-community-header__background {
+    --header-background-image-height: 160px;
+    background-image: url(../images/Site-background.webp);
+    background-repeat: no-repeat;
+    height: var(--header-background-image-height);
+    margin-bottom: calc(var(--header-background-image-height)*-1);
+    opacity: var(--theme-background-image-opacity);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: -2;
+}
