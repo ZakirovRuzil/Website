@@ -46,3 +46,15 @@ C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web.ORM\bin\Debug\net6.0\We
 C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web.ORM\bin\Debug\net6.0\Web.ORM.dll
 C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web.ORM\bin\Debug\net6.0\Web.ORM.pdb
 C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web.ORM\obj\Debug\net6.0\ref\Web.ORM.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\bin\Debug\net6.0\Web.ORM.deps.json
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\bin\Debug\net6.0\Web.ORM.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\bin\Debug\net6.0\Web.ORM.pdb
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.csproj.AssemblyReference.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.AssemblyInfoInputs.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.AssemblyInfo.cs
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.csproj.CoreCompileInputs.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\refint\Web.ORM.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\Web.ORM.pdb
+C:\Users\ruzyz\repo\SecondSite\Website\Web.ORM\obj\Debug\net6.0\ref\Web.ORM.dll

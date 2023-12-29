@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kTyXpurH5aBGkS4F8lftSnQ3S3ZwkFU5W790ENKsaJRm63dy+fHUTPbC4cpy3NXlzMcUC2rJJA2j1rhxEk2R8A==",
+  "dgSpecHash": "ZVgtOWtXWxK0/sbF2qE7Ut1tJAfLgNzuTFvV5/6pS9kGQvS1F2V4WWFXRcwDXj5hjr7rS6fct7boSCfpsROksA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruzyz\\repo\\Website\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruzyz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ruzyz\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",

@@ -161,11 +161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruzyz\\repo\\Website\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\ruzyz\\repo\\Website\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\ruzyz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruzyz\\repo\\Website\\Web\\obj\\",
+      "outputPath": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruzyz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,8 +182,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ruzyz\\repo\\Website\\Web.ORM\\Web.ORM.csproj": {
-              "projectPath": "C:\\Users\\ruzyz\\repo\\Website\\Web.ORM\\Web.ORM.csproj"
+            "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web.ORM\\Web.ORM.csproj": {
+              "projectPath": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web.ORM\\Web.ORM.csproj"
             }
           }
         }
