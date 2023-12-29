@@ -7,7 +7,7 @@ using Web.ORM.Repository;
 namespace Web.Controllers;
 
 [HttpController(name: "home")]
-public class MainPageController
+public class HomeController
 {
     private static BossesRepository _bosses = new BossesRepository();
     private static LevelsRepository _levels = new LevelsRepository();
