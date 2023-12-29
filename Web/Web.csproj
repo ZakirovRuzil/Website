@@ -24,6 +24,22 @@
       <Folder Include="static\home\images\bosses\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="static\home\templates\BossTemplate.html" />
+      <EmbeddedResource Include="static\home\templates\BossTemplate.html" />
+      <None Remove="static\home\templates\FriendTemplate.html" />
+      <EmbeddedResource Include="static\home\templates\FriendTemplate.html" />
+      <None Remove="static\home\templates\LevelTemplate.html" />
+      <EmbeddedResource Include="static\home\templates\LevelTemplate.html" />
+      <None Update="static\home\bossPage.html">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Remove="static\home\index.html" />
+      <EmbeddedResource Include="static\home\index.html">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </EmbeddedResource>
+    </ItemGroup>
+
 
 
 

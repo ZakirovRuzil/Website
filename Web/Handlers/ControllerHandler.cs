@@ -66,7 +66,7 @@ public class ControllersHandler: Handler
         }
         
         else if (request is { HttpMethod: "GET" }
-                 && methodName.Equals("GetBosses", StringComparison.OrdinalIgnoreCase))
+                 && methodName.Equals("GetMainPage", StringComparison.OrdinalIgnoreCase))
         {
             res =  method?.Invoke(Activator.CreateInstance(controller!), queryParams );
             ProcessResult(res, response);

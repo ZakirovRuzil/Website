@@ -141,11 +141,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruzyz\\repo\\Website\\Web.ORM\\Web.ORM.csproj",
+      "projectUniqueName": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web.ORM\\Web.ORM.csproj",
       "projectName": "Web.ORM",
-      "projectPath": "C:\\Users\\ruzyz\\repo\\Website\\Web.ORM\\Web.ORM.csproj",
+      "projectPath": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web.ORM\\Web.ORM.csproj",
       "packagesPath": "C:\\Users\\ruzyz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruzyz\\repo\\Website\\Web.ORM\\obj\\",
+      "outputPath": "C:\\Users\\ruzyz\\repo\\SecondSite\\Website\\Web.ORM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruzyz\\AppData\\Roaming\\NuGet\\NuGet.Config",

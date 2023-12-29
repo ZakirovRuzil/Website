@@ -44,6 +44,38 @@ public class BossesRepository
         await _context.CloseConnection();
         return result;
     }
+    
+    public async Task<Boss> GetById(int Id)
+    {
+        await _context.OpenConnection();
+
+        string sqlExpression = "SELECT * FROM \"Bosses\" WHERE \"Id\" = @Id";
+        var command = _context.GetCommand(sqlExpression);
+        
+        command.Parameters.AddWithValue("@Id", Id);
+
+        NpgsqlDataReader reader = command.ExecuteReader();
+
+        Boss boss = null;
+
+        if (reader.HasRows)
+        {
+            reader.Read();
+
+            boss = new Boss
+            {
+                Id = (int)reader["Id"],
+                Name = reader["Name"].ToString()!,
+                Picture = reader["Picture"].ToString()!,
+                Discription = reader["Discription"].ToString()!
+            };
+        }
+
+        reader.Close();
+
+        await _context.CloseConnection();
+        return boss;
+    }
 
     /// <summary>
     /// Метод добавления сущности в базу данных

@@ -150,3 +150,25 @@ C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web\obj\Debug\net6.0\Web.pd
 C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
 C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web\obj\Debug\net6.0\ref\Web.dll
 C:\Users\ruzyz\OneDrive\Рабочий стол\Web3\Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.exe
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.deps.json
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.runtimeconfig.json
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.pdb
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.ORM.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\Web.ORM.pdb
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.csproj.AssemblyReference.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.AssemblyInfo.cs
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.csproj.CopyComplete
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\refint\Web.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.pdb
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
+C:\Users\ruzyz\repo\SecondSite\Website\Web\obj\Debug\net6.0\ref\Web.dll
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\static\home\bossPage.html
+C:\Users\ruzyz\repo\SecondSite\Website\Web\bin\Debug\net6.0\static\home\index.html
